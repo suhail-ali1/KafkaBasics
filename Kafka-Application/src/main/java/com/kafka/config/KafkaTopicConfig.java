@@ -10,7 +10,7 @@ import org.springframework.kafka.config.TopicBuilder;
 @Configuration
 public class KafkaTopicConfig {
 	
-	// Kafka Topic
+	// Kafka Topic First
 	@Bean
 	public NewTopic topic()
 	{
