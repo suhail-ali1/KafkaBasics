@@ -18,6 +18,7 @@ public class KafkaTopicConfig {
 // We can Split this topic into partitions for example partitions(10)
 	}
 	
+	// Kafka Topic Second
 	@Bean
 	public NewTopic topic2()
 	{
